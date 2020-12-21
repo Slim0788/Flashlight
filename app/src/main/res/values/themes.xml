@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Theme.Flashlight" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Colors-->
+        <item name="colorPrimary">@color/purple_700</item>
+        <item name="android:textColor">@color/gray_100</item>
+        <item name="android:colorBackground">@color/gray_300</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+
+        <!-- Styles-->
+        <item name="android:buttonStyleToggle">@style/Widget.Button.Toggle</item>
+    </style>
+</resources>

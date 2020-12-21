@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="error_text">Camera flash not available!</string>
+    <string name="error_title">Error! No flash!</string>
+    <string name="exit_message">Exit</string>
+    <string name="select_mode">Select Mode</string>
+    <string name="mode_flash">Flash</string>
+    <string name="mode_blink">Blink</string>
+</resources>
